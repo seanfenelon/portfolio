@@ -84,7 +84,7 @@ const Home = () => {
           <div className="column is-6 right-image" data-aos="fade-left">
             <img
               className="is-rounded"
-              src="/images/headshot.png"
+              src="/src/images/headshot.png"
               alt=""
             />
           </div>
