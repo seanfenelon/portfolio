@@ -2,12 +2,17 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 const Navbar = () => {
-  return <nav className="navbar1">
-    <img className="logo" src='https://boundarydevices.com/wp-content/uploads/2017/01/movie-icon.png'/>
-
-    <Link to='/project-2/'><button className="ToHome" >Home</button></Link>
-    <Link to='/project-2/components/WatchList'><button className="ToWatchList" >Watch List</button></Link>
-
+  return <nav className="navbar is-dark">
+    <div className="navbar-menu is-active">
+      <div className="navbar-end">
+        <div className="navbar-item">
+          <div className="buttons">
+            <Link className="button is-light" to="/">Home</Link>
+            <Link className="button is-warning" to="/cheeses">Cheeses</Link>
+          </div>
+        </div>
+      </div>
+    </div>
   </nav>
 }
 

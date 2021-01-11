@@ -1,7 +1,6 @@
 const path = require('path')
 const webpack = require('webpack')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
-const DotEnv = require('dotenv-webpack')
 
 module.exports = env => {
   const publicPath = env.NODE_ENV === 'local' ? {
@@ -32,7 +31,6 @@ module.exports = env => {
       historyApiFallback: true
     },
     plugins: [
-      new DotEnv(),
       new webpack.HotModuleReplacementPlugin(),
       new HtmlWebpackPlugin({
         template: 'src/index.html',
