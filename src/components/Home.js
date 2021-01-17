@@ -150,7 +150,7 @@ const Home = () => {
       <div className="row justify-content-center">
         <div className="col-xl-4 col-lg-6 col-md-5 col-sm-8 col-xs-12">
           <div className="hovereffect">
-            <img className="img-responsive" src="https://i.imgur.com/sCWJ2nsh.png" alt="" />
+            <img className="img-responsive" src="https://i.imgur.com/COQx3PO.png" alt="" />
             <div className="overlay">
               <h1>Space Invaders</h1>
               <h2>A simple, single page ode to the classic arcade game built using HTML, JS and CSS</h2>
@@ -173,7 +173,7 @@ const Home = () => {
         </div>
         <div className="col-xl-4 col-lg-6 col-md-5 col-sm-8 col-xs-12">
           <div className="hovereffect">
-            <img className="img-responsive" src="https://i.imgur.com/J6OhOqJh.png" alt="" />
+            <img className="img-responsive" src="https://i.imgur.com/0tM10O2.png" alt="" />
             <div className="overlay">
               <h1>Skii</h1>
               <h2>A full-stack web application for an interactive exploration of the worlds ski resorts using React, Express, MongoDB and NodeJS</h2>
