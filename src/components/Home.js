@@ -198,12 +198,12 @@ const Home = () => {
       
     </section>
 
-    <section className="footer" id="contact">
+    <footer className="footer" id="contact">
       
       <div className="contact-links">
-        <div className="container">
-          <h1 className="title has-text-centered">Get in touch..</h1>
-        </div>
+        
+        <h1 className="title has-text-centered">Get in touch..</h1>
+        
         <div className="columns is-multiline">
           <div className="column is-one-third-desktop is-one-mobile icon-project has-text-centered">
             <a href="https://www.linkedin.com/in/seanfenelon/"><i className="devicon-linkedin-plain icon" /></a>
@@ -219,7 +219,7 @@ const Home = () => {
           </div>
         </div>
       </div>
-    </section>
+    </footer>
   </body>
 }
 export default Home
