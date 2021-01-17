@@ -53,6 +53,7 @@ const Home = () => {
             <br />
             <p className="about-me-text">I am a highly energetic software developer. Personally and professionally, I am driven by a sense of freedom and have a passion for adventure. This led me to leave behind the world of in vitro-diagnostics in pursuit of a career epitomised by innovation, creativity and a desire to push boundaries. I’m looking to start my career as a full-stack developer in a creative and bold organisation bringing my optimistic and unflappable attitude.</p>
             <br />
+            <p className="about-me-text">Outside of work, I can always be found, well.. outside! Rock climbing, surfing, snowboarding are all passions of mine. Anything that gets my heart going!</p>
             <div className="is-divider"></div>
             
           </div>

@@ -134,29 +134,13 @@ nav {
   height: 80%;
   width: 80%;
 }
-.project-cards {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  border: 5px solid black;
-}
+
 
 .project-title {
   display: flex;
   justify-content: center;
 }
 
-.project-card-space {
-  background-color: #66FCF1;
-  color: #2c4158;
-  padding: 10px;
-}
-
-//hover icons
-.icon-column:hover {
-  opacity: 0.5;
-}
 
 .icon-name {
   font-size: 15px;
@@ -168,12 +152,11 @@ nav {
 a {
   color: #66FCF1;
 }
+
 .row {
   margin: 30px;
   padding: 30px;
 }
-
-
 
 .project-title {
   color: #2c4158;
