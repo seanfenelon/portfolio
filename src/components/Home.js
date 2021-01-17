@@ -146,56 +146,57 @@ const Home = () => {
     </section>
     
     <section className="projects" id="projects">
-      <h1 className="title project-title">PROJECTS</h1>
-      <div className="row justify-content-center">
-        <div className="col-xl-3 col-lg-3 col-md-5 col-sm-8 col-xs-12">
-          <div className="hovereffect">
-            <img className="img-responsive" src="https://i.imgur.com/COQx3PO.png" alt="" />
-            <div className="overlay">
-              <h1>Space Invaders</h1>
-              <h2>A simple, single page ode to the classic arcade game built using HTML, JS and CSS</h2>
-              <a className="info" href="https://github.com/seanfenelon/project-1">GitHub</a>
-              <a className="info" href="https://seanfenelon.github.io/project-1/">Live</a>
+      <div className="container">
+        <h1 className="title project-title">PROJECTS</h1>
+        <div className="row justify-content-center">
+          <div className="col-xl-3 col-lg-3 col-md-5 col-sm-8 col-xs-12">
+            <div className="hovereffect">
+              <img className="img-responsive" src="https://i.imgur.com/COQx3PO.png" alt="" />
+              <div className="overlay">
+                <h1>Space Invaders</h1>
+                <h2>A simple, single page ode to the classic arcade game built using HTML, JS and CSS</h2>
+                <a className="info" href="https://github.com/seanfenelon/project-1">GitHub</a>
+                <a className="info" href="https://seanfenelon.github.io/project-1/">Live</a>
+              </div>
+            </div>
+          </div>
+          
+          <div className="col-xl-3 col-lg-3 col-md-5 col-sm-8 col-xs-12">
+            <div className="hovereffect">
+              <img className="img-responsive" src="https://i.imgur.com/A6n74jkh.png" alt="" />
+              <div className="overlay">
+                <h1>The Movie Guru</h1>
+                <h2>Your go-to site for all these movies. React and Express were the foundation of this 48-hour, pair-programming hackathon!</h2>
+                <a className="info" href="https://github.com/seanfenelon/project-2">GitHub</a>
+                <a className="info" href="https://seanfenelon.github.io/project-2/">Live</a>
+              </div>
+            </div>
+          </div>
+          <div className="col-xl-3 col-lg-3 col-md-5 col-sm-8 col-xs-12">
+            <div className="hovereffect">
+              <img className="img-responsive" src="https://i.imgur.com/0tM10O2.png" alt="" />
+              <div className="overlay">
+                <h1>Skii</h1>
+                <h2>A full-stack web application for an interactive exploration of the worlds ski resorts using React, Express, MongoDB and NodeJS</h2>
+                <a className="info" href="https://github.com/seanfenelon/Project-3">GitHub</a>
+                <a className="info" href="https://project-3-ski-sean.herokuapp.com/">Live</a>
+              </div>
+            </div>
+          </div>
+          <div className="col-xl-3 col-lg-3 col-md-5 col-sm-8 col-xs-12">
+            <div className="hovereffect">
+              <img className="img-responsive" src="https://i.imgur.com/saTGWJWh.png" alt="" />
+              <div className="overlay">
+                <h1>Travel Explorer</h1>
+                <h2>Find your next adventure with this full-stack application built with Python, React, Flask and PostgreSQL </h2>
+                <a className="info" href="https://github.com/seanfenelon/Project-4">GitHub</a>
+                <a className="info" href="https://project-4-sean.herokuapp.com/">Live</a>
+              </div>
             </div>
           </div>
         </div>
-        
-        <div className="col-xl-3 col-lg-3 col-md-5 col-sm-8 col-xs-12">
-          <div className="hovereffect">
-            <img className="img-responsive" src="https://i.imgur.com/A6n74jkh.png" alt="" />
-            <div className="overlay">
-              <h1>The Movie Guru</h1>
-              <h2>Your go-to site for all these movies. React and Express were the foundation of this 48-hour, pair-programming hackathon!</h2>
-              <a className="info" href="https://github.com/seanfenelon/project-2">GitHub</a>
-              <a className="info" href="https://seanfenelon.github.io/project-2/">Live</a>
-            </div>
-          </div>
-        </div>
-        <div className="col-xl-3 col-lg-3 col-md-5 col-sm-8 col-xs-12">
-          <div className="hovereffect">
-            <img className="img-responsive" src="https://i.imgur.com/0tM10O2.png" alt="" />
-            <div className="overlay">
-              <h1>Skii</h1>
-              <h2>A full-stack web application for an interactive exploration of the worlds ski resorts using React, Express, MongoDB and NodeJS</h2>
-              <a className="info" href="https://github.com/seanfenelon/Project-3">GitHub</a>
-              <a className="info" href="https://project-3-ski-sean.herokuapp.com/">Live</a>
-            </div>
-          </div>
-        </div>
-        <div className="col-xl-3 col-lg-3 col-md-5 col-sm-8 col-xs-12">
-          <div className="hovereffect">
-            <img className="img-responsive" src="https://i.imgur.com/saTGWJWh.png" alt="" />
-            <div className="overlay">
-              <h1>Travel Explorer</h1>
-              <h2>Find your next adventure with this full-stack application built with Python, React, Flask and PostgreSQL </h2>
-              <a className="info" href="https://github.com/seanfenelon/Project-4">GitHub</a>
-              <a className="info" href="https://project-4-sean.herokuapp.com/">Live</a>
-            </div>
-          </div>
-        </div>
+      
       </div>
-      
-      
     </section>
 
     <section className="footer" id="contact">
