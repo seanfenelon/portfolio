@@ -148,7 +148,7 @@ const Home = () => {
     <section className="projects" id="projects">
       <h1 className="title project-title">PROJECTS</h1>
       <div className="row justify-content-center">
-        <div className="col-xl-4 col-lg-6 col-md-5 col-sm-8 col-xs-12">
+        <div className="col-xl-3 col-lg-3 col-md-5 col-sm-8 col-xs-12">
           <div className="hovereffect">
             <img className="img-responsive" src="https://i.imgur.com/COQx3PO.png" alt="" />
             <div className="overlay">
@@ -160,7 +160,7 @@ const Home = () => {
           </div>
         </div>
         
-        <div className="col-xl-4 col-lg-6 col-md-5 col-sm-8 col-xs-12">
+        <div className="col-xl-3 col-lg-3 col-md-5 col-sm-8 col-xs-12">
           <div className="hovereffect">
             <img className="img-responsive" src="https://i.imgur.com/A6n74jkh.png" alt="" />
             <div className="overlay">
@@ -171,7 +171,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-        <div className="col-xl-4 col-lg-6 col-md-5 col-sm-8 col-xs-12">
+        <div className="col-xl-3 col-lg-3 col-md-5 col-sm-8 col-xs-12">
           <div className="hovereffect">
             <img className="img-responsive" src="https://i.imgur.com/0tM10O2.png" alt="" />
             <div className="overlay">
@@ -182,7 +182,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-        <div className="col-xl-4 col-lg-6 col-md-5 col-sm-8 col-xs-12">
+        <div className="col-xl-3 col-lg-3 col-md-5 col-sm-8 col-xs-12">
           <div className="hovereffect">
             <img className="img-responsive" src="https://i.imgur.com/saTGWJWh.png" alt="" />
             <div className="overlay">
