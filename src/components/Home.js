@@ -150,7 +150,7 @@ const Home = () => {
       <div className="row justify-content-center">
         <div className="col-xl-3 col-lg-3 col-md-5 col-sm-8 col-xs-12">
           <div className="hovereffect">
-            <img className="img-responsive" src="https://i.imgur.com/oCvnH1u.png" alt="" />
+            <img className="img-responsive" src="https://i.imgur.com/A6n74jkh.png" alt="" />
             <div className="overlay">
               <h1>Space Invaders</h1>
               <h2>A simple, single page ode to the classic arcade game built using HTML, JS and CSS</h2>
