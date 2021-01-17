@@ -198,7 +198,7 @@ const Home = () => {
       
     </section>
 
-    <footer className="footer" id="contact">
+    <section className="footer" id="contact">
       
       <div className="contact-links">
         <div className="container">
@@ -219,7 +219,7 @@ const Home = () => {
           </div>
         </div>
       </div>
-    </footer>
+    </section>
   </body>
 }
 export default Home
