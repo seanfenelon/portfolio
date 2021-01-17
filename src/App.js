@@ -6,6 +6,7 @@ import { Switch, Route, BrowserRouter, Link } from 'react-router-dom'
 import Home from './components/Home'
 
 import 'bulma'
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import './styles/style.scss'
 
 
